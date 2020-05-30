@@ -1,4 +1,4 @@
 # excel
-Sistema simulando um caixa de uma lanchonete.
-Usuário: admin
-Senha: 123
+# Sistema simulando um caixa de uma lanchonete.
+# Usuário: admin
+# Senha: 123
